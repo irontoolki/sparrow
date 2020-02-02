@@ -4,7 +4,7 @@ import net.payla.webapp.core.catalog.classes.Categories;
 import net.payla.webapp.core.catalog.classes.Download;
 import net.payla.webapp.core.catalog.interfaces.Brand;
 import net.payla.webapp.core.catalog.interfaces.Filter;
-import net.payla.webapp.core.products.punits.*;
+import net.payla.webapp.core.unitclass.*;
 import net.payla.webapp.core.suppliers.Supplier;
 
 import java.net.URL;

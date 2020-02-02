@@ -1,4 +1,4 @@
-package net.payla.webapp.iam;
+package net.payla.webapp.iam.interfaces;
 
 /**
  * One time Password

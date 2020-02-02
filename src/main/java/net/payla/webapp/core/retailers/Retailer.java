@@ -3,7 +3,7 @@ package net.payla.webapp.core.retailers;
 /**
  * define retailer
  */
-public class retailer {
+public class Retailer {
 
     private String retailerImage;
     private long retailerParentId;
